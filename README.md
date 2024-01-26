@@ -23,3 +23,10 @@ https://www.w3schools.com/jsref/met_element_removeattribute.asp
 https://www.w3schools.com/jsref/met_element_queryselector.asp
 https://www.w3schools.com/jsref/met_element_addeventlistener.asp
 https://www.w3schools.com/jsref/met_document_getelementbyid.asp
+
+Link to the deployed application :
+
+
+
+Screenshot of the deployed application :
+
