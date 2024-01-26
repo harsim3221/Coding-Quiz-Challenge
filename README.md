@@ -30,3 +30,6 @@ Link to the deployed application :
 
 Screenshot of the deployed application :
 
+![image](https://github.com/harsim3221/Coding-Quiz-Challenge/assets/149484142/86e5dc87-01da-478f-b0c6-14258930f179)
+
+
