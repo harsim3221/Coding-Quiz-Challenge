@@ -26,7 +26,7 @@ https://www.w3schools.com/jsref/met_document_getelementbyid.asp
 
 Link to the deployed application :
 
-
+https://harsim3221.github.io/Coding-Quiz-Challenge/
 
 Screenshot of the deployed application :
 
